@@ -31,6 +31,9 @@ Low-income employees show higher attrition compared to other income bands
 Sales department and Sales Representative role show elevated attrition risk
 Larger teams amplify attrition impact
 
+## Dataset
+This project uses the IBM HR Analytics Employee Attrition dataset, a publicly available dataset commonly used for HR analytics practice.
+
 Dashboard Pages:
 1.Overview
 ![Overview](Overview.HR.png)
