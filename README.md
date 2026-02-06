@@ -33,11 +33,17 @@ Larger teams amplify attrition impact
 
 Dashboard Pages:
 1.Overview
-![Overview]("C:\Users\SALMA\OneDrive\Pictures\Screenshots\Powerbi project screens\Screenshot 2026-01-29 183427.png")
+![Overview](Overview.HR.png)
+
 2.Attrition Drivers
-![Attrition Drivers] ("C:\Users\SALMA\OneDrive\Pictures\Screenshots\Powerbi project screens\Screenshot 2026-01-29 183451.png")
+
+![Attrition Drivers](Drivers.HR.png)
+
 3.Department & Role Analysis
-![Department & Role Analysis] ("C:\Users\SALMA\OneDrive\Pictures\Screenshots\Powerbi project screens\Screenshot 2026-01-29 183517.png")
+
+![Department & Role Analysis](Role%20anlyse.HR.png)
+
+
 
 
 
